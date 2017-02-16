@@ -61,3 +61,5 @@ cut -f3 | # cuts the third field from the data set and keeps it.
 grep gene | # find "gene" from the third field 
 wc -l #conduct a word count on how many times the word gene is found/ 
 # how many lines the word gene comes up   
+
+## and they live somewhat happily and merrily ever after. 
