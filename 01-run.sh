@@ -1,5 +1,7 @@
 ##Change 1 for git practice 
 ##Change 2 
+##Change 3 
+
 ### This script is used to count how many genes are contained in an organism's
 # genome that is in the .gff file.
 ### The first part of the script (from if to fi) functions to give a usage 
