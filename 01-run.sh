@@ -1,4 +1,4 @@
-# It all started when she exclaimed,
+# However, it did not start when she exclaimed,
 # LOOK TO YOUR RIGHT!!!!!
 
 ##Change 1 for git practice 
