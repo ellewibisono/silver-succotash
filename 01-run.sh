@@ -1,3 +1,7 @@
+# It was a gloomy day in Peacedale, 
+##
+##
+
 # However, it did not start when she exclaimed,
 # LOOK TO YOUR RIGHT!!!!!
 
