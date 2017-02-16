@@ -1,4 +1,4 @@
-# It all started when she exclaimed,
+# It all started when he turned around and screamed,
 # LOOK TO YOUR RIGHT!!!!!
 
 ##Change 1 for git practice 
