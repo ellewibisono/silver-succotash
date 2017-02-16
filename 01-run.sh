@@ -1,3 +1,4 @@
+# It all started when she exclaimed,
 # LOOK TO YOUR RIGHT!!!!!
 
 ##Change 1 for git practice 
